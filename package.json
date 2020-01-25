@@ -1,0 +1,10 @@
+{
+  "name": "pcg",
+  "version": "1.0.0",
+  "description": "A CLI tool for generating Prettier config files",
+  "main": "index.js",
+  "repository": "https://github.com/joshuacolvin/pcg",
+  "author": "Joshua Colvin",
+  "license": "MIT",
+  "private": false
+}
